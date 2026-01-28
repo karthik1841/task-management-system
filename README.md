@@ -3,6 +3,19 @@
 A full-stack **Task Management System** built using the **MERN stack (MongoDB, Express.js, React, Node.js)**.  
 This application helps teams and individuals **create, assign, track, and manage tasks** efficiently with real-time updates and role-based access.
 
+📸 Screenshots
+<img width="1904" height="971" alt="Screenshot 2025-09-01 134707" src="https://github.com/user-attachments/assets/a4a7f290-ca35-478d-bc67-fefdb522423d" />
+<img width="1904" height="971" alt="Screenshot 2025-09-01 134920" src="https://github.com/user-attachments/assets/aab6d61a-f553-446c-9eb0-d69e2943083a" />
+<img width="1919" height="975" alt="Screenshot 2025-09-01 134810" src="https://github.com/user-attachments/assets/b7f2d8ed-308e-4d16-80a1-29ec64e895d0" />
+<img width="1918" height="972" alt="Screenshot 2025-09-01 134902" src="https://github.com/user-attachments/assets/0114dea8-00f7-4969-be70-1a93b3581115" />
+<img width="1901" height="973" alt="Screenshot 2025-09-01 135004" src="https://github.com/user-attachments/assets/7159200f-d44c-4a03-9a02-4694893e1661" />
+<img width="1902" height="973" alt="Screenshot 2025-09-01 135244" src="https://github.com/user-attachments/assets/d9095231-a707-4743-b32e-f783cbaa744f" />
+<img width="1905" height="972" alt="Screenshot 2025-09-01 135616" src="https://github.com/user-attachments/assets/9dc55856-d1e8-4249-a5ff-de697756c3d2" />
+<img width="1906" height="974" alt="Screenshot 2025-09-01 135518" src="https://github.com/user-attachments/assets/b8a78cc4-7367-4dad-9d50-4b9f2b2087c3" />
+<img width="1905" height="975" alt="Screenshot 2025-09-01 135640" src="https://github.com/user-attachments/assets/a937dac7-7825-49c3-83e6-23dc752e67a7" />
+<img width="1905" height="974" alt="Screenshot 2025-09-01 135658" src="https://github.com/user-attachments/assets/1ced3462-36a9-4370-852c-0b9c8ff71f8d" />
+<img width="1907" height="975" alt="Screenshot 2025-09-01 135734" src="https://github.com/user-attachments/assets/706919a9-1bc2-400b-9fe7-eebba875cbd0" />
+
 ---
 
 ## 🚀 Features
@@ -134,36 +147,6 @@ Tasks move through statuses
 
 Dashboard updates in real time
 
-📸 Screenshots
-<img width="1920" height="971" alt="Screenshot 2025-09-02 120012" src="https://github.com/user-attachments/assets/cae10025-aea3-4ffb-a49c-293450124825" />
-<img width="1908" height="971" alt="Screenshot 2025-09-02 105208" src="https://github.com/user-attachments/assets/31455537-51d6-48eb-804b-924216645fe9" />
-<img width="1920" height="974" alt="Screenshot 2025-09-02 104834" src="https://github.com/user-attachments/assets/92721f0c-87a4-44a8-8771-c7881d4f7cd0" />
-<img width="1909" height="978" alt="Screenshot 2025-09-01 135840" src="https://github.com/user-attachments/assets/45918cf7-fdcd-4915-83de-0d470232a79a" />
-<img width="1920" height="973" alt="Screenshot 2025-09-01 135810" src="https://github.com/user-attachments/assets/6066e2b0-34c8-447c-b07b-b50d0157c286" />
-<img width="1117" height="544" alt="Screenshot 2025-09-01 135749" src="https://github.com/user-attachments/assets/ad847af2-ccb6-4ce8-b12b-37565171ab88" />
-<img width="1907" height="975" alt="Screenshot 2025-09-01 135734" src="https://github.com/user-attachments/assets/63d2e763-ab9c-49e5-8f55-6e5a91db9615" />
-<img width="1904" height="976" alt="Screenshot 2025-09-01 135718" src="https://github.com/user-attachments/assets/92c3d73d-cf48-4d78-86d6-ee75e52c3f80" />
-<img width="1905" height="974" alt="Screenshot 2025-09-01 135658" src="https://github.com/user-attachments/assets/d550114b-f4db-4d23-93e2-d18837f52fd3" />
-<img width="1905" height="975" alt="Screenshot 2025-09-01 135640" src="https://github.com/user-attachments/assets/1d5a01f8-1743-4734-b5d5-a4002b50f920" />
-<img width="1905" height="972" alt="Screenshot 2025-09-01 135616" src="https://github.com/user-attachments/assets/564f64b8-e04e-47ed-9851-ee115370fcda" />
-<img width="1903" height="974" alt="Screenshot 2025-09-01 135554" src="https://github.com/user-attachments/assets/81075569-662f-42d6-833e-4b561578d4c8" />
-<img width="1906" height="974" alt="Screenshot 2025-09-01 135518" src="https://github.com/user-attachments/assets/36688001-8b3a-4d26-8555-5bdb1a9c1883" />
-<img width="1907" height="978" alt="Screenshot 2025-09-01 135330" src="https://github.com/user-attachments/assets/f9052eaa-a866-41d0-b053-73354ceeb0e7" />
-<img width="1902" height="973" alt="Screenshot 2025-09-01 135244" src="https://github.com/user-attachments/assets/d8dd11d4-179e-4beb-99ae-54e5ff4ce0c8" />
-<img width="1908" height="972" alt="Screenshot 2025-09-01 135221" src="https://github.com/user-attachments/assets/247b8e4f-88a2-4bc5-8e8b-abe882525aba" />
-<img width="1904" height="971" alt="Screenshot 2025-09-01 135158" src="https://github.com/user-attachments/assets/b4e2a96c-fc71-4b08-bec6-9ee9190e2604" />
-<img width="1905" height="974" alt="Screenshot 2025-09-01 135125" src="https://github.com/user-attachments/assets/b13e8214-910f-4c4c-9ed2-c863a8735733" />
-<img width="1907" height="973" alt="Screenshot 2025-09-01 135102" src="https://github.com/user-attachments/assets/75e77060-3319-46ea-b667-5aa7de89bfc7" />
-<img width="1904" height="973" alt="Screenshot 2025-09-01 135041" src="https://github.com/user-attachments/assets/8444c4e6-5021-4d8f-a7ca-d30df8bdaf99" />
-<img width="1901" height="973" alt="Screenshot 2025-09-01 135004" src="https://github.com/user-attachments/assets/50d7e78f-3042-48c0-bca7-ee2cf3ecffad" />
-<img width="1904" height="971" alt="Screenshot 2025-09-01 134920" src="https://github.com/user-attachments/assets/1c5aa795-1e6e-4b92-81f7-0b0fef81a0a1" />
-<img width="1918" height="972" alt="Screenshot 2025-09-01 134902" src="https://github.com/user-attachments/assets/80fee385-968c-4ab5-8bc2-3baf2d3135e6" />
-<img width="1919" height="975" alt="Screenshot 2025-09-01 134810" src="https://github.com/user-attachments/assets/0832df4e-6f65-446e-85fc-0404a9b056b0" />
-<img width="1920" height="973" alt="Screenshot 2025-09-01 134739" src="https://github.com/user-attachments/assets/974b18bb-e65a-4114-bca0-033bcc7667a6" />
-<img width="1904" height="971" alt="Screenshot 2025-09-01 134707" src="https://github.com/user-attachments/assets/16afcb42-924e-4a03-9bb9-fc841bc54e27" />
-<img width="1900" height="973" alt="Screenshot 2025-09-02 120136" src="https://github.com/user-attachments/assets/fd843fcb-7dda-4e11-b430-eb0a90b24a6d" />
-<img width="1908" height="971" alt="Screenshot 2025-09-02 120115" src="https://github.com/user-attachments/assets/ae481703-2332-4bc3-aef5-a25976247cd0" />
-<img width="1919" height="970" alt="Screenshot 2025-09-02 120027" src="https://github.com/user-attachments/assets/334b047c-e5b5-4a8c-849c-262b60db8886" />
 
 
 🌱 Future Enhancements
@@ -202,4 +185,5 @@ If you want, I can:
 - Convert it to **Jira-style system README**
 
 Just tell me 👍
+
 
